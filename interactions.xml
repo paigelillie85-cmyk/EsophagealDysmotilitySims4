@@ -1,34 +1,10 @@
 <I c="Interaction" i="interaction" m="interactions.base.super_interaction"
-   n="ED_DoctorAppointment" s="5555555555">
-  <T n="display_name">Schedule Doctor Appointment</T>
+   n="ED_TakeMedication" s="991000000010">
+  <T n="display_name">Take Esophageal Medication</T>
   <T n="loot_actions">
     <V t="buff">
       <U>
-        <T n="buff">4444444444</T>
-      </U>
-    </V>
-  </T>
-</I>
-
-<I c="Interaction" i="interaction" m="interactions.base.super_interaction"
-   n="ED_HospitalVisit" s="6666666666">
-  <T n="display_name">Go to Hospital</T>
-  <T n="loot_actions">
-    <V t="buff">
-      <U>
-        <T n="buff">4444444444</T>
-      </U>
-    </V>
-  </T>
-</I>
-
-<I c="Interaction" i="interaction" m="interactions.base.super_interaction"
-   n="ED_TakeMedication" s="7777777777">
-  <T n="display_name">Take Medication</T>
-  <T n="loot_actions">
-    <V t="buff">
-      <U>
-        <T n="buff">4444444444</T>
+        <T n="buff">991000000004</T>
       </U>
     </V>
   </T>

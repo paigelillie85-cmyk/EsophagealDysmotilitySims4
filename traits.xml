@@ -1,7 +1,12 @@
-<I c="Trait" i="trait" m="traits.trait" n="Trait_EsophagealDysmotility" s="1111111111">
+<I c="Trait" i="trait" m="traits.trait"
+   n="Trait_EsophagealDysmotility"
+   s="991000000001">
   <T n="display_name">Esophageal Dysmotility</T>
   <T n="description">
-    This Sim has trouble swallowing and often experiences pain and fatigue after eating.
+    This Sim has a chronic esophageal condition that causes pain,
+    fatigue, and difficulty after eating.
   </T>
-  <E n="trait_type">LIFESTYLE</E>
+  <E n="trait_type">PERSONALITY</E>
+  <T n="is_visible">True</T>
+  <T n="is_selectable">True</T>
 </I>

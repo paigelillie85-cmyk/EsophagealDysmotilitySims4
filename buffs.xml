@@ -1,20 +1,20 @@
-<I c="Buff" i="buff" m="buffs.buff" n="Buff_EsophagealPain" s="2222222222">
+<I c="Buff" i="buff" m="buffs.buff" n="Buff_EsophagealPain" s="991000000002">
   <T n="display_name">Esophageal Pain</T>
   <T n="description">Painful swallowing and chest discomfort.</T>
   <E n="mood_type">UNCOMFORTABLE</E>
   <T n="timeout">240</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="Buff_Fatigue" s="3333333333">
+<I c="Buff" i="buff" m="buffs.buff" n="Buff_Fatigue" s="991000000003">
   <T n="display_name">Fatigued</T>
-  <T n="description">Managing symptoms is exhausting.</T>
+  <T n="description">Managing chronic symptoms is exhausting.</T>
   <E n="mood_type">TIRED</E>
   <T n="timeout">360</T>
 </I>
 
-<I c="Buff" i="buff" m="buffs.buff" n="Buff_Medicated" s="4444444444">
+<I c="Buff" i="buff" m="buffs.buff" n="Buff_Medicated" s="991000000004">
   <T n="display_name">Medicated</T>
-  <T n="description">Medication is helping symptoms.</T>
+  <T n="description">Medication is helping reduce symptoms.</T>
   <E n="mood_type">FINE</E>
   <T n="timeout">480</T>
 </I>
